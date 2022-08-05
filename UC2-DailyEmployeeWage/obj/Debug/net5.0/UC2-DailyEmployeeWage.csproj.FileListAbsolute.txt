@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\bin\Debug\net5.0\UC2-DailyEmployeeWage.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\bin\Debug\net5.0\UC2-DailyEmployeeWage.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\bin\Debug\net5.0\UC2-DailyEmployeeWage.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\bin\Debug\net5.0\UC2-DailyEmployeeWage.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\bin\Debug\net5.0\UC2-DailyEmployeeWage.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\bin\Debug\net5.0\UC2-DailyEmployeeWage.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\refint\UC2-DailyEmployeeWage.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\UC2-DailyEmployeeWage.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC2-DailyEmployeeWage\obj\Debug\net5.0\ref\UC2-DailyEmployeeWage.dll

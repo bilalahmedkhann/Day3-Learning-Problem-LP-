@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\bin\Debug\net5.0\UC4-EmpWageUsingSwitchCase.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\bin\Debug\net5.0\UC4-EmpWageUsingSwitchCase.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\bin\Debug\net5.0\UC4-EmpWageUsingSwitchCase.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\bin\Debug\net5.0\UC4-EmpWageUsingSwitchCase.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\bin\Debug\net5.0\UC4-EmpWageUsingSwitchCase.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\bin\Debug\net5.0\UC4-EmpWageUsingSwitchCase.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\refint\UC4-EmpWageUsingSwitchCase.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\UC4-EmpWageUsingSwitchCase.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\UC4-EmpWageUsingSwitchCase\obj\Debug\net5.0\ref\UC4-EmpWageUsingSwitchCase.dll

@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\bin\Debug\net5.0\PartTimeEmployeeWage.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\bin\Debug\net5.0\PartTimeEmployeeWage.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\bin\Debug\net5.0\PartTimeEmployeeWage.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\bin\Debug\net5.0\PartTimeEmployeeWage.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\bin\Debug\net5.0\PartTimeEmployeeWage.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\bin\Debug\net5.0\PartTimeEmployeeWage.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\refint\PartTimeEmployeeWage.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\PartTimeEmployeeWage.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWage\obj\Debug\net5.0\ref\PartTimeEmployeeWage.dll
